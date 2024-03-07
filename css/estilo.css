@@ -1,0 +1,222 @@
+/* Seção topo BANNER 01 */
+
+.banner-topo {
+    background-image: url("../img/banner-topo.jpg");
+    background-position: center;
+    background-size: cover;
+    padding: 120px 80px;
+    box-sizing: border-box;
+}
+
+.banner-01 .paragrafo-banner-01 {
+    max-width: 250px;
+    font-family: sans-serif;
+    font-size: 35px;
+    margin: 5px;
+    font-weight: bold;
+    color: #3c184e;
+    display: inline;
+}
+
+.banner-01 .paragrafo-banner-02 {
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: #3c184e;
+    margin: 0;
+}
+
+.banner-01 .pata {
+    width: 30px;
+    margin: 5px;
+}
+
+/* Seção segundo BANNER 01 */
+
+.banner-02 {
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0 auto;
+    background-color: #ffffffc4;
+    box-shadow: 0 8px 32px 0 #1f26875e;
+}
+
+.banner-02 h1 {
+    font-size: 60px;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800px;
+    margin: 0 0 40px 0;
+}
+ .banner-02 p {
+    width: 200px;
+    padding: 10px 25px 10px 25px;
+    margin: 0 auto 0 auto;
+    border-radius: 10px;
+    background-color: #3c184e;
+    font-size: 20px;
+    text-align: center;
+ }
+
+ .link-whatsapp {
+    text-decoration: none;
+    color: #ffff;
+ }
+
+ .banner-02 .simbolo-whatsapp {
+    width: 20px;
+    margin: 0 0 0 5px;
+ }
+
+ /* Seção de serviços */
+
+ .subtitulo-servicos {
+    font-family: sans-serif;
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 45px 0 45px 0;
+ }
+
+/* Destaque span dos serviços*/
+
+ .texto-destaque {
+    font-weight: 700px;
+    font-weight: bold;
+    font-style: italic;
+ }
+
+ /* Listas de serviços */
+
+ .lista-de-servico {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    color: #3c184e;
+    font-family: sans-serif;
+    font-size: 20px;
+ }
+
+ .lista-01, .lista-02, .lista-03, .lista-04, .lista-05 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+ }
+
+ .lista-de-imagens {
+    max-width: 800px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+ }
+
+ .lista-de-imagens img {
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+ }
+
+ /* Faixas de separação*/
+
+ .faixa-rede-social {
+    padding: 120px 80px 120px 80px;
+    background-color: #3c184e;
+    text-align: center;
+    text-decoration: none;
+ }
+
+ .faixa-rede-social p{
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+ }
+
+ .faixa-rede-social img{
+    text-align: center;
+    margin: 0 20px;
+    width: 50px;
+    height: 50px;
+ }
+
+ /* Seção MARCAS */
+
+ .secao-marcas {
+    width: 100%;
+    padding: 120px 80px 120px 80px;
+ }
+
+ .titulo-marcas {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+    font-family: sans-serif;
+ }
+
+ .marcas {
+    max-width: 800px;
+    margin: 0 auto 0 auto;
+ }
+
+ .marcas img {
+    width: 148px;
+    height: 148px;
+    margin: 0 15px 0 15px;
+ }
+
+ /* Seção de localização */
+
+ .secao-localizacao {
+    width: 100%;
+    padding: 120px 80px 120px 80px;
+    text-align: center;
+ }
+
+ .secao-localizacao h3 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+    font-family: sans-serif;
+ }
+
+ .secao-localizacao p {
+    font-size: 20px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+    font-family: sans-serif;
+ }
+
+ .localizacao-mapa iframe {
+    width: 800px;
+    height: 450px;
+ }
+
+ /* Seção RODAPE */
+
+ .rodape {
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+    background-color: #3c184e;
+    color: #fff;
+    font-family: sans-serif;
+ }
+
+ .rodape a {
+    text-decoration: none;
+    text-align: center;
+    display: inline;
+    color: black;
+    font-family: sans-serif;
+ }
+
+ .ilinkedin, .iinstagram, .igithub {
+    background-color: #fff;
+    border-radius: 30px;
+    padding: 5px;
+    margin-right: 10px;
+ }
